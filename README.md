@@ -5,6 +5,8 @@ I've worked with organisations and clients across a range of industries and tech
 
 ### Expertise
 Whilst I am happy solving problems with any technology I would brazenly claim to be expert in the following:
+- DevOps, CI/CD
+- Swarming / Mobbing
 - AWS (IAM, EC2, EKS, ECS, and more!)
 - Terraform
 - GitHub Actions
