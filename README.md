@@ -4,7 +4,7 @@ Hiya! I'm Russ, an experienced and versatile engineer with a laser-focus on soft
 I've worked with organisations and clients across a range of industries and tech stacks, solving all sorts of problems!
 
 ### Expertise
-Whilst I am happy solving problems with any technology I would boldly claim to be expert in the following:
+Whilst I am happy solving problems with any technology I would brazenly claim to be expert in the following:
 - AWS (IAM, EC2, EKS, ECS, and more!)
 - Terraform
 - GitHub Actions
